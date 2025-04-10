@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base para Compose -->
+    <style name="Theme.Practica3" parent="android:Theme.Material.Light.NoActionBar" />
+    
+    <!-- Tema base para AppCompat -->
+    <style name="Theme.Practica3.AppCompat" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/ipn_primary_light</item>
+        <item name="colorPrimaryDark">@color/ipn_primary_dark</item>
+        <item name="colorAccent">@color/ipn_secondary_light</item>
+        <item name="android:windowBackground">@color/ipn_background_light</item>
+    </style>
+    
+    <!-- Tema IPN para AppCompat (Claro) -->
+    <style name="Theme.Practica3.IPN" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/ipn_primary_light</item>
+        <item name="colorPrimaryDark">@color/ipn_primary_dark</item>
+        <item name="colorAccent">@color/ipn_secondary_light</item>
+        <item name="android:windowBackground">@color/ipn_background_light</item>
+    </style>
+    
+    <!-- Tema ESCOM para AppCompat (Claro) -->
+    <style name="Theme.Practica3.ESCOM" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/escom_primary_light</item>
+        <item name="colorPrimaryDark">@color/escom_primary_dark</item>
+        <item name="colorAccent">@color/escom_secondary_light</item>
+        <item name="android:windowBackground">@color/escom_background_light</item>
+    </style>
+</resources>

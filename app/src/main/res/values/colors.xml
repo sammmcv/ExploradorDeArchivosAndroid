@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Colores IPN (Guinda) -->
+    <color name="ipn_primary_light">#9E1B32</color>
+    <color name="ipn_primary_dark">#7A1526</color>
+    <color name="ipn_secondary_light">#C13B4B</color>
+    <color name="ipn_secondary_dark">#5A0F1C</color>
+    <color name="ipn_background_light">#FFFBFB</color>
+    <color name="ipn_background_dark">#1A0507</color>
+    
+    <!-- Colores ESCOM (Azul) -->
+    <color name="escom_primary_light">#003A70</color>
+    <color name="escom_primary_dark">#002A50</color>
+    <color name="escom_secondary_light">#0066B3</color>
+    <color name="escom_secondary_dark">#001F3F</color>
+    <color name="escom_background_light">#F5F9FF</color>
+    <color name="escom_background_dark">#051525</color>
+</resources>
