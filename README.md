@@ -1,4 +1,4 @@
-# Gestor de Archivos Android
+# Explorador de Archivos Android
 
 Una aplicación de gestión de archivos para Android con temas personalizables (IPN y ESCOM) y soporte para modos claro/oscuro.
 
