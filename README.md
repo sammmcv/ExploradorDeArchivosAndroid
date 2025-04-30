@@ -25,12 +25,6 @@ Una aplicación de gestión de archivos para Android con temas personalizables (
 - Android 6.0 (API 24) o superior
 - Permisos de almacenamiento
 
-## Instalación
-
-1. Descarga el archivo APK desde la sección de releases
-2. Instala la aplicación en tu dispositivo Android
-3. Concede los permisos de almacenamiento cuando se soliciten
-
 ## Tecnologías utilizadas
 
 - Kotlin
